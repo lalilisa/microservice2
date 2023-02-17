@@ -1,0 +1,10 @@
+.idea
+
+
+./configserver/target
+./profilemanagement/target
+./dicoveryserver/target
+
+!**/target
+!**/libraries
+
